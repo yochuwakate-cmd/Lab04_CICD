@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Ekachai Kanya - Portfolio Website
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage)
@@ -62,3 +63,6 @@ it464a-gitsample/
 <p align="center">
     Made with ❤️ by Ekachai Kanya
 </p>
+=======
+# Lab04_CICD
+>>>>>>> 3521a8f59b88ec783a9289dd82738d315d75d924
